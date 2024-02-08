@@ -1,9 +1,4 @@
-#!/bin/bash
+#!/bin/bash 
 
-echo "Best School"
-
----
-Le checker est buggge
-
-echo "The School is open!"
+echo "The school is open!"
 
